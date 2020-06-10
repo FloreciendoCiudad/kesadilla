@@ -1,8 +1,6 @@
 # Site
-name: "FloreciendoCiudad"
-title: "FloreciendoCiudad"
-
-
+name: "Floreciendociudad"
+title: "Floreciendociudad"
 description: "De parques, banquetas, flores y vecinas.  Ideas sobre la ciudad que habitamos de la voz de una vecina."
 logo: 'assets/images/floreciendo.png'
 favicon: 'assets/images/favicon.png'
