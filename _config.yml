@@ -1,9 +1,9 @@
 # Site
-name: "Floreciendo Ciudad"
-title: Floreciendo Ciudad
-description: "De parques, banquetas, flores y vecinas.  Ideas sobre la ciudad que habitamos de la voz de una vecina."
-logo: 'assets/images/floreciendo.png'
-favicon: 'assets/images/favicon.png'
+name: "Mediumish"
+title: "Mediumish"
+description: "Jekyll template, Medium styled, free for bloggers."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -12,24 +12,24 @@ include: ["_pages"]
 permalink: /:title/
 
 # Authors
-authors: "Lagos Piña"
+authors:
   sal:
-    name: Lagos Piña
-    display_name: Lagos Piña
+    name: Sal
+    display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: floreciendociudad@gmail.com
+    email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/FloreceCiudad
+    twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: Ana
-    display_name: Ana    
-    avatar: 'assets/images/moi.png'
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: floreciendociudad@gmail.com
+    email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/FloreceCiudad
-    description: "Vecina de Tlalnepantla, interesada en áreas verdes, juntas vecinales, pájaros, plantas y jardines."
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
